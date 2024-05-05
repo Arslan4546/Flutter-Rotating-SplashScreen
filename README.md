@@ -1,1 +1,1 @@
-this repository guides you how to use post API's in your Flutter Applications 
+This Reopository guides you how to make rotating splash screen in futter and it gives you more ways to creating splash screen
